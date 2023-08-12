@@ -17,26 +17,26 @@ El equipo de One Pace valora mucho la calidad y está profundamente comprometido
 Estamos aquí para acelerar el proceso de traducción al traducir los subtítulos en inglés (proporcionados por One Pace) a varios idiomas, ampliando así el alcance del proyecto One Pace. Aunque es posible que no sigamos estrictamente los mismos estándares de control de calidad que el equipo oficial de One Pace, nuestras traducciones mantienen un alto nivel. Dado que esto es un esfuerzo colaborativo, siéntete animado a solicitar correcciones cada vez que encuentres errores en nuestros archivos traducidos.
 
 ## ¿Cómo usar los subtítulos traducidos?
-Simplemente descarga el archivo de subtítulos deseado (en formato .ass<sup>2</sup>), descarga el episodio equivalente de [One Pace](https://onepace.net/) y úsalo con tu reproductor multimedia favorito. Este repositorio está organizado en tres niveles: Idioma > Saga > Episodios.
+Simplemente descarga el archivo de subtítulos deseado (en formato .ass<sup>2</sup>), descarga el episodio equivalente de [One Pace](https://onepace.net/) y úsalo con tu reproductor multimedia favorito. Este repositorio está organizado en tres niveles: Idioma > Arco > Episodios.
 
-> 2. ( ͡° ͜ʖ ͡°) .ass significa Advanced Substation Alpha.
+> 2. .ass significa Advanced Substation Alpha.
 
     .
-    ├── Español                                                      # Idioma (primer nivel)
-    │   ├── 001-Romance Dawn                                         # Saga     (segundo nivel)
-    │   │   ├── [One Pace][1] Romance Dawn 01 [1080p][FB72C13F].ass  # Episodios (tercer nivel)
+    ├── English                                                      # Idioma    (primero nivel)
+    │   ├── 001-Romance Dawn                                         # Arco      (segundo nivel)
+    │   │   ├── [One Pace][1] Romance Dawn 01 [1080p][FB72C13F].ass  # Episodios (tercero nivel)
     │   │   ├── [One Pace][2] Romance Dawn 02 [1080p][667784D2].ass
     │   │   └── ...
     │   └── ...
-    ├── Português Brasil                                             # Idioma (primer nivel)
-    │   ├── 001-Romance Dawn                                         # Saga     (segundo nivel)
-    │   │   ├── [One Pace][1] Romance Dawn 01 [1080p][FB72C13F].ass  # Episodios (tercer nivel)
+    ├── Português Brasil                                             # Idioma    (primero nivel)
+    │   ├── 001-Romance Dawn                                         # Saga      (segundo nivel)
+    │   │   ├── [One Pace][1] Romance Dawn 01 [1080p][FB72C13F].ass  # Episodios (tercero nivel)
     │   │   ├── [One Pace][2] Romance Dawn 02 [1080p][667784D2].ass
     │   │   └── ...
     │   └── ...
     ├── ...
-    ├── LICENCIA                                                     # Este archivo contiene la descripción de la licencia del proyecto
-    └── LEEME.md                                                     # Este archivo es el LEEME del proyecto
+    ├── LICENSE                                                      # Este archivo contiene la descripción de la licencia del proyecto
+    └── README.md                                                    # Este archivo es el README del proyecto
 
 ## ¿Cuándo se traducirá el arco o episodio x?
 Hemos creado un [proyecto](https://github.com/onepace-community-translation/subtitles/projects) para cada traducción en curso. Busca tu idioma deseado y sigue el progreso de las tareas. Si no puedes encontrar tu idioma, siéntete animado a iniciar una traducción.
