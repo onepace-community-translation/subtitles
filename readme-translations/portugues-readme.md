@@ -19,7 +19,7 @@ Estamos aqui para acelerar o processo de tradução, traduzindo as legendas do i
 ## Como usar as legendas traduzidas?
 Basta baixar o arquivo de legenda desejado (no formato .ass<sup>2</sup>), baixar o episódio equivalente do [One Pace](https://onepace.net/) e usá-lo com o seu reprodutor de mídia favorito. Este repositório está organizado em três níveis: Idioma > Arco > Episódios.
 
-> 2. ( ͡° ͜ʖ ͡°) .ass significa Advanced Substation Alpha.
+> 2. .ass significa Advanced Substation Alpha.
 
     .
     ├── English                                                      # Idioma    (primeiro nível)
@@ -36,7 +36,7 @@ Basta baixar o arquivo de legenda desejado (no formato .ass<sup>2</sup>), baixar
     │   └── ...
     ├── ...
     ├── LICENSE                                                      # Este arquivo contém a descrição da licença do projeto
-    └── README.md                                                    # Este arquivo é o LEIAME do projeto
+    └── README.md                                                    # Este arquivo é o README do projeto
 
 ## Quando o arco ou episódio x será traduzido?
 Criamos um [projeto](https://github.com/onepace-community-translation/subtitles/projects) para cada tradução em andamento. Procure pelo seu idioma desejado e acompanhe o progresso das tarefas. Se você não encontrar o seu idioma, sinta-se encorajado a iniciar uma tradução.
