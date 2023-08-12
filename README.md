@@ -7,9 +7,9 @@ This README is available in the following languages:
 - [Español](https://github.com/onepace-community-translation/subtitles/blob/main/readme-translations/español-readme.md)
 
 ## What is this project?
-This is a collaborative project aiming to translate the [One Pace](https://onepace.net/)<sup>1</sup> episodes from English to any language the community is willing to translate at a faster pace.
+This is a collaborative project aiming to translate the [One Pace](https://onepace.net/)[^1] episodes from English to any language the community is willing to translate at a faster pace.
 
-> 1. [One Pace](https://onepace.net/) is a fan project that re-cuts the One Piece anime to align it more closely with the pacing of the original manga by Eiichiro Oda.
+[^1]: [One Pace](https://onepace.net/) is a fan project that re-cuts the One Piece anime to align it more closely with the pacing of the original manga by Eiichiro Oda.
 
 ## Why is it unofficial?
 The One Pace team highly values quality and is deeply committed to delivering an experience that remains faithful to Eiichiro Oda's original manga. They achieve this by translating directly from Japanese and undergoing meticulous quality assurance processes, resulting in slower translation.
@@ -17,9 +17,7 @@ The One Pace team highly values quality and is deeply committed to delivering an
 We are here to accelerate the translation process by translating from the English subtitles (provided by One Pace) into multiple languages, thereby expanding the reach of the One Pace project. While we may not strictly adhere to the same quality control standards as the official One Pace team, our translations maintain a high standard. Since this is a collaborative endeavor, please feel encouraged to request corrections whenever you come across errors in our translated files.
 
 ## How to use the translated subtitles?
-Simply download the desired subtitle file (in .ass<sup>2</sup> format), download the equivalent [One Pace](https://onepace.net/) episode and use it with your favorite media player. This repository is organized into three levels: Language > Arc > Episodes.
-
-> 2. .ass stands for Advanced Substation Alpha.
+Simply download the desired subtitle file (in .ass[^2] format), download the equivalent [One Pace](https://onepace.net/) episode and use it with your favorite media player. This repository is organized into three levels: Language > Arc > Episodes.
 
     .
     ├── English                                                      # Language (first level)
@@ -37,6 +35,8 @@ Simply download the desired subtitle file (in .ass<sup>2</sup> format), download
     ├── ...
     ├── LICENSE                                                      # This file contains the project's license description
     └── README.md                                                    # This file is the README for the project
+
+[^2]: .ass stands for Advanced Substation Alpha.
 
 ## When will the x arc or episode be translated?
 We have created a [project](https://github.com/onepace-community-translation/subtitles/projects) for each ongoing translation. Look for your desired language and follow the progress of the tasks. If you cannot find your language, feel encouraged to initiate a translation.
