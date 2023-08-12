@@ -3,7 +3,7 @@
 ## Idiomas
 Este README está disponível nos seguintes idiomas:
 - [English](https://github.com/onepace-community-translation/subtitles/blob/main/README.md)
-x Português
+- Português
 - [Español](https://github.com/onepace-community-translation/subtitles/blob/main/readme-translations/español-readme.md)
 
 ## O que é este projeto?
