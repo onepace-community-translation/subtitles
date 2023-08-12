@@ -19,7 +19,7 @@ We are here to accelerate the translation process by translating from the Englis
 ## How to use the translated subtitles?
 Simply download the desired subtitle file (in .ass<sup>2</sup> format), download the equivalent [One Pace](https://onepace.net/) episode and use it with your favorite media player. This repository is organized into three levels: Language > Arc > Episodes.
 
-> 2. ( ͡° ͜ʖ ͡°) .ass stands for Advanced Substation Alpha.
+> 2. .ass stands for Advanced Substation Alpha.
 
     .
     ├── English                                                      # Language (first level)
