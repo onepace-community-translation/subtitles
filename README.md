@@ -1,5 +1,11 @@
 # Unofficial Subtitles for One Pace
 
+## Languages
+This README is available in the following languages:
+- English
+- [Português](https://github.com/onepace-community-translation/subtitles/blob/main/readme-translations/portugues-readme.md)
+- [Español](https://github.com/onepace-community-translation/subtitles/blob/main/readme-translations/español-readme.md)
+
 ## What is this project?
 This is a collaborative project aiming to translate the [One Pace](https://onepace.net/)<sup>1</sup> episodes from English to any language the community is willing to translate at a faster pace.
 
@@ -11,19 +17,19 @@ The One Pace team highly values quality and is deeply committed to delivering an
 We are here to accelerate the translation process by translating from the English subtitles (provided by One Pace) into multiple languages, thereby expanding the reach of the One Pace project. While we may not strictly adhere to the same quality control standards as the official One Pace team, our translations maintain a high standard. Since this is a collaborative endeavor, please feel encouraged to request corrections whenever you come across errors in our translated files.
 
 ## How to use the translated subtitles?
-Simply download the desired subtitle file (in .ass<sup>2</sup> format), download the equivalent [One Pace](https://onepace.net/) episode and use it with your favorite media player. This repository is organized into three levels: Language > Saga > Episodes.
+Simply download the desired subtitle file (in .ass<sup>2</sup> format), download the equivalent [One Pace](https://onepace.net/) episode and use it with your favorite media player. This repository is organized into three levels: Language > Arc > Episodes.
 
-> 2. ( ͡° ͜ʖ ͡°) .ass stands for Advanced Substation Alpha.
+> 2. .ass stands for Advanced Substation Alpha.
 
     .
     ├── English                                                      # Language (first level)
-    │   ├── 001-Romance Dawn                                         # Saga     (second level)
+    │   ├── 001-Romance Dawn                                         # Arc      (second level)
     │   │   ├── [One Pace][1] Romance Dawn 01 [1080p][FB72C13F].ass  # Episodes (third level)
     │   │   ├── [One Pace][2] Romance Dawn 02 [1080p][667784D2].ass
     │   │   └── ...
     │   └── ...
     ├── Português Brasil                                             # Language (first level)
-    │   ├── 001-Romance Dawn                                         # Saga     (second level)
+    │   ├── 001-Romance Dawn                                         # Arc      (second level)
     │   │   ├── [One Pace][1] Romance Dawn 01 [1080p][FB72C13F].ass  # Episodes (third level)
     │   │   ├── [One Pace][2] Romance Dawn 02 [1080p][667784D2].ass
     │   │   └── ...
