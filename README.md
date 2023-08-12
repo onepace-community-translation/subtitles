@@ -1,5 +1,11 @@
 # Unofficial Subtitles for One Pace
 
+## Languages
+This README is available in the following languages:
+- English
+- [Português](https://github.com/onepace-community-translation/subtitles/blob/main/readme-translations/portugues-readme.md)
+- [Español](https://github.com/onepace-community-translation/subtitles/blob/main/readme-translations/español-readme.md)
+
 ## What is this project?
 This is a collaborative project aiming to translate the [One Pace](https://onepace.net/)<sup>1</sup> episodes from English to any language the community is willing to translate at a faster pace.
 
